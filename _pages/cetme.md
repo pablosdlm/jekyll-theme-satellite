@@ -2,6 +2,7 @@
 title: "CETME"
 tags:
     - Material nacional
+    - Fusil de asalto
 date: "2025-11-24"
 thumbnail: "/assets/img/thumbnail/cetme2.png"
 bookmark: true

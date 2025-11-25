@@ -1,7 +1,7 @@
 ---
 title: "AK74U"
 date: "2023-12-02"
-thumbnail: "/assets/img/thumbnail/ak74u.png"
+thumbnail: "/assets/img/thumbnail/ak74u-logo.png"
 ---
 El AKS-74U es una versión compacta del fusil AK-74, diseñada en la Unión Soviética en 1979. Utiliza el calibre 5,45×39 mm y combina la potencia de un fusil de asalto con el tamaño reducido de una carabina.
 
@@ -24,16 +24,19 @@ Velocidad inicial: Aproximadamente 735 m/s.
 Alcance efectivo: 300–500 metros, menor que el AK-74 debido a su cañón más corto.
 
 📌 Especificaciones técnicas
-Característica	Detalle
-Longitud total	735 mm (culata desplegada) / 490 mm (plegada)
-Longitud del cañón	210 mm
-Peso	2,7 kg
-Sistema de disparo	Recarga por gas, cerrojo rotativo
-Cadencia de tiro	~730 disparos/minuto
-Capacidad del cargador	20–30 cartuchos
-Alcance efectivo	300–500 m
+
+**Longitud total**:	735 mm (culata desplegada) / 490 mm (plegada)
+**Longitud del cañón**:	210 mm
+**Peso**: 2,7 kg
+**Sistema de disparo**:	Recarga por gas, cerrojo rotativo
+**Cadencia de tiro**: ~730 disparos/minuto
+**Capacidad del cargador**:	20–30 cartuchos
+**Alcance efectivo**: 300–500 m
+
 📷 Apariencia del AKS-74U
-Aquí tienes una referencia visual del AKS-74U, también conocido como “Krinkov” en Occidente:
+Este es el AKS-74U, también conocido como “Krinkov” en Occidente:
+
+![AK74U](/assets/img/ak74u.png)
 
 ⚔️ Uso y legado
 Fue empleado en la guerra soviética en Afganistán, las guerras chechenas y múltiples conflictos posteriores.
