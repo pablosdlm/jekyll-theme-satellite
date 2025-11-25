@@ -1,5 +1,8 @@
 ---
 title: "AK74U"
+tags:
+    - Arma rusa
+    - Carabina
 date: "2023-12-02"
 thumbnail: "/assets/img/thumbnail/ak74u-logo.png"
 ---

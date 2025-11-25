@@ -1,5 +1,5 @@
 ---
-title: "Glock"
+title: "Glock 18"
 tags:
     - Arma moderna
     - Pistola
@@ -61,5 +61,5 @@ Reconocidas por su fiabilidad en condiciones extremas, bajo mantenimiento y faci
 
 Muy populares en el mercado civil, tanto para defensa personal como para tiro deportivo.
 
-Esta es la glock
-![Glock](assets/img/glock.png)
+Esta es la  pistola **Glock 18**:
+![Glock](/assets/img/glock.png)
