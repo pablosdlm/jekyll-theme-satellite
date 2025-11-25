@@ -1,11 +1,11 @@
-title: example.com
-description: "Satellite - jekyll blog theme"
-logo_img: "/assets/img/favicon.webp"
-profile_img: "/assets/img/profile.webp"
+title: armerias.com
+description: "Armados hasta los dientes"
+logo_img: "/assets/img/logo.png"
+profile_img: "/assets/img/logo.png"
 
 # Social Links
-email: example@gmail.com
-github_username: github
+email: psainzdelamazar01@educantabria.es
+github_username: pablosdlm
 twitter_username: twitter
 instagram_username: instagram
 linkedin_username: linkedin
