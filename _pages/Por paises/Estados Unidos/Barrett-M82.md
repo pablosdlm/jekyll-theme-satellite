@@ -52,7 +52,7 @@ XM500: Modelo más moderno, con diseño bullpup y mayor precisión.
 📷 Apariencia del Barrett M82/M107
 Este es el Barrett M82, el francotirador pesado más famoso y letal del mundo:
 
-![Barrett M82](assets/img/barrett.png)
+![Barrett M82](/assets/img/barrett.png)
 
 ⚔️ Uso y legado
 Considerado un fusil antimaterial, más que un simple rifle de francotirador.

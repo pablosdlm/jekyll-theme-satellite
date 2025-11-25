@@ -46,7 +46,7 @@ MP5/10 y MP5/40: Adaptadas a calibres 10 mm Auto y .40 S&W.
 📷 Apariencia del MP5
 Este es el legendario MP5, ampliamente usado por fuerzas especiales:
 
-![MP5](assets/img/mp5.png)
+![MP5](/assets/img/mp5.png)
 
 ⚔️ Uso y legado
 Empleado por unidades como el SAS británico en la famosa operación de rescate en la embajada iraní de Londres (1980).

@@ -4,7 +4,7 @@ tags:
     - Material nacional
     - Fusil de asalto
 date: "2025-11-24"
-thumbnail: "/assets/img/thumbnail/cetme2.png"
+thumbnail: "/assets/img/thumbnail/cetme-logo.png"
 bookmark: true
 ---
 El CETME es el fusil de asalto español más emblemático, diseñado en los años 50, que utilizó principalmente los calibres 7,62×51 mm CETME/OTAN y posteriormente 5,56×45 mm OTAN. Sus versiones abarcan desde el Modelo A hasta el Modelo L, con variantes como LC, LV y AMELI.
@@ -38,4 +38,4 @@ Sistema de disparo: Utiliza un cerrojo semirrígido con rodillos (roller-delayed
 
 **AMELI**: Ametralladora ligera derivada del CETME L, también en 5,56 mm.
 
-![assets/img/cetme.png]
+![cetme](/assets/img/cetme.png)
